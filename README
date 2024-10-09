@@ -104,8 +104,8 @@ The server will start on `http://localhost:3000` (or your configured port).
   ```
 
 - **Get Assignments**: `GET /api/admins/assignments`
-- **Accept Assignment**: `POST /assignments/:id/accept`
-- **Reject Assignment**: `POST /assignments/:id/reject`
+- **Accept Assignment**: `POST /api/admins/assignments/:id/accept`
+- **Reject Assignment**: `POST /api/admins/assignments/:id/reject`
 
 ## Sample Assignment Object
 

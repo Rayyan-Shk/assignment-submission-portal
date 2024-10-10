@@ -52,7 +52,7 @@ npm install
    - Rename `example_env` to `.env`
    - Add your MongoDB URL and JWT secret:
 ```
-MONGO_URI=your_mongodb_url_here
+MONGODB_URI=your_mongodb_url_here
 JWT_SECRET=your_jwt_secret_here
 ```
 
